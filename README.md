@@ -10,7 +10,7 @@ Big Data project to search for POIs using Kafka, MongoDB, and Face Recognition M
 ---
 Project Diagram
    ---
-   ![alt text](/readme_imgs/spi_diagram.jpg)
+  
    ---
 ---
 Main Items:
