@@ -1,0 +1,10 @@
+{
+  "video_requests": {
+    "video_one": {
+      "camera_id": 11432,
+      "camera_latitude": 29.42842,
+      "camera_longitude": -98.43854,
+      "video_path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    }
+  }
+}
